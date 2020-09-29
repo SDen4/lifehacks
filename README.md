@@ -1,5 +1,4 @@
 # lifehacks
-
 ---
 
 ## delete arrows from input type number in Chrome, Safari, Edge, Opera
@@ -17,7 +16,6 @@ input[type=number] {
   -moz-appearance:textfield;
 }
 ```
-
 ---
 
 ## delete blue mark of tap in mobile version
@@ -27,17 +25,14 @@ input[type=number] {
 ---
 
 ## hide scroll
-
 ### chrome, safari
 ```sh
 .container::-webkit-scrollbar { width: 0 }
 ```
-
 ### ie 10+
 ```sh
 .container { -ms-overflow-style: none; }
 ```
-
 ### ff
 ```sh
 .container { overflow: -moz-scrollbars-none; }
@@ -89,42 +84,33 @@ margin: 10px auto 10px 10px;
 import React from 'react';
 export default ({ user, update, index }) => {
   return (
-    <tr onClick={() => update({ active: index })}>
-      <td><img src={`images/${user.image}.svg`} className="user-image" /></td>
-      <td>{user.name}</td>
-      <td>{user.age}</td>
-      <td>8 {user.phone}</td>
-    </tr>
+      <li className="user__item">
+        ...
+      </li>
   );
 };
 ```
 ---
 
 ## Backgroung smooth scale change
-
 https://codepen.io/SDen4/pen/gOrBGKv
 ---
 
 ## CSS Parallax
-
 https://codepen.io/SDen4/pen/oNxPOmX
 ---
 
 ## Date & time
-
 https://codepen.io/SDen4/details/RwaLdGy
 ---
 
 ## Hover works after second mouse move
-
 https://codepen.io/SDen4/pen/QWNpKvY
 ---
 
 ## Generator CSS code of TOR (gradient)
-
 https://codepen.io/SDen4/pen/LYGaEep
 ---
 
 ## glare button
-
 https://codepen.io/SDen4/pen/mdVxmWx
