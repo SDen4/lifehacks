@@ -125,3 +125,9 @@ https://codepen.io/SDen4/pen/LYGaEep
 ## glare button
 
 https://codepen.io/SDen4/pen/mdVxmWx
+
+
+## github pages
+
+git add dist && git commit -m "Initial dist subtree commit"
+git subtree push --prefix dist origin gh-pages
