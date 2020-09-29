@@ -36,6 +36,7 @@ input[type=number] {
 
 ## Scroll style for chrome, yandex, safari, opera
 
+```sh
 ::-webkit-scrollbar {
     width: 10px; //scroll width
     background-color: red; //scroll bg color
@@ -50,6 +51,7 @@ input[type=number] {
 }
 
 others: https://only-to-top.ru/blog/coding/2020-01-31-stilizaciya-skrolla-css.html
+```
 
 ---
 
