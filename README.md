@@ -93,24 +93,30 @@ export default ({ user, update, index }) => {
 ---
 
 ## Backgroung smooth scale change
+
 https://codepen.io/SDen4/pen/gOrBGKv
 ---
 
 ## CSS Parallax
+
 https://codepen.io/SDen4/pen/oNxPOmX
 ---
 
 ## Date & time
+
 https://codepen.io/SDen4/details/RwaLdGy
 ---
 
 ## Hover works after second mouse move
+
 https://codepen.io/SDen4/pen/QWNpKvY
 ---
 
 ## Generator CSS code of TOR (gradient)
+
 https://codepen.io/SDen4/pen/LYGaEep
 ---
 
 ## glare button
+
 https://codepen.io/SDen4/pen/mdVxmWx
