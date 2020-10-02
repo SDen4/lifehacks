@@ -132,3 +132,11 @@ https://codepen.io/SDen4/pen/mdVxmWx
 git add dist && git commit -m "Initial dist subtree commit"
 git subtree push --prefix dist origin gh-pages
 ```
+
+---
+
+## Star rating
+
+https://codepen.io/SDen4/pen/zYqVJQx
+
+---
