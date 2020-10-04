@@ -140,3 +140,51 @@ git subtree push --prefix dist origin gh-pages
 https://codepen.io/SDen4/pen/zYqVJQx
 
 ---
+
+## Tor by CSS
+
+https://codepen.io/SDen4/pen/LYGaEep
+
+---
+
+## Counting checkboxes by pure js
+
+https://codepen.io/SDen4/pen/PoNNdyz
+
+---
+
+## Smooth scroll indicator
+
+https://codepen.io/SDen4/pen/ExjJxmO
+
+---
+
+## Elements smooth scroll appear
+
+https://codepen.io/SDen4/pen/ZEGwRwx
+
+---
+
+## One page scroll
+
+https://codepen.io/SDen4/pen/LYVmNXB
+
+---
+
+## Fixed header
+
+https://codepen.io/SDen4/details/rNVdJgJ
+
+---
+
+## Fixed footer
+
+https://codepen.io/SDen4/pen/YzXeGKx
+
+---
+
+## Simple preloader
+
+https://codepen.io/SDen4/pen/BaNmBYd
+
+---
