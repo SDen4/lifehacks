@@ -196,3 +196,9 @@ https://jsfiddle.net/SDen4/6r13mx0t/latest/
 https://jsfiddle.net/SDen4/xrjyd3g2/latest/
 
 ---
+
+## Геометрические фигуры css
+
+https://habr.com/ru/post/126207/
+
+---
