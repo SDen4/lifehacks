@@ -1,7 +1,7 @@
-# lifehacks
+# Lifehacks
 ---
 
-## delete arrows from input type number in Chrome, Safari, Edge, Opera
+## Delete arrows from input type number in Chrome, Safari, Edge, Opera
 ```sh
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
@@ -10,7 +10,7 @@ input::-webkit-inner-spin-button {
 }
 ```
 
-## delete arrows from input type number in Firefox
+## Delete arrows from input type number in Firefox
 ```sh
 input[type=number] {
   -moz-appearance:textfield;
@@ -18,13 +18,13 @@ input[type=number] {
 ```
 ---
 
-## delete blue mark of tap in mobile version
+## Delete blue mark of tap in mobile version
 ```sh
 -webkit-tap-highlight-color: transparent;
 ```
 ---
 
-## hide scroll
+## Hide scroll
 ### chrome, safari
 ```sh
 .container::-webkit-scrollbar { width: 0 }
@@ -67,13 +67,13 @@ html, body {
 ```
 ---
 
-## picture with gradient
+## Picture with gradient
 ```sh
 background: linear-gradient(0deg, #fff, rgba(255,255,255, 0.6) 50%, #222), url("https://preziland.com/wp-content/uploads/Infographics-rainbow-diagram-Prezi-template-1600x900.png") 50%/75px;
 ```
 ---
 
-## fix problem of width fit-content in IE
+## Fix problem of width fit-content in IE
 ```sh
 margin: 10px auto 10px 10px;
 ```
@@ -122,12 +122,12 @@ https://codepen.io/SDen4/pen/LYGaEep
 
 ---
 
-## glare button
+## Glare button
 
 https://codepen.io/SDen4/pen/mdVxmWx
 
 
-## github pages
+## Github pages
 ```sh
 git add dist && git commit -m "Initial dist subtree commit"
 git subtree push --prefix dist origin gh-pages
@@ -220,6 +220,17 @@ https://codepen.io/SDen4/pen/KKMwqzJ
 #### Context menu appear protection
 ```sh
 <body oncopy="return false">
+```
+
+---
+
+## Word-wrap
+
+```sh
+.order__name {
+    width: 25%;
+    word-wrap: break-word; // Принудительный перенос слова, чтобы поместилось в заданную ширину блока.
+}
 ```
 
 ---
