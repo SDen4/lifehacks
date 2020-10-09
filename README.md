@@ -205,6 +205,8 @@ https://habr.com/ru/post/126207/
 
 ## Сopy-protected text
 
+https://codepen.io/SDen4/pen/KKMwqzJ
+
 #### Copy protection
 ```sh
 <body onselectstart="return false">
