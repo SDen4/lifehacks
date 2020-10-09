@@ -202,3 +202,22 @@ https://jsfiddle.net/SDen4/xrjyd3g2/latest/
 https://habr.com/ru/post/126207/
 
 ---
+
+## Сopy-protected text
+
+#### Copy protection
+```sh
+<body onselectstart="return false">
+```
+
+#### Selecting text protection
+```sh
+<body oncontextmenu="return false">
+```
+
+#### Context menu appear protection
+```sh
+<body oncopy="return false">
+```
+
+---
