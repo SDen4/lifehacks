@@ -135,6 +135,12 @@ git subtree push --prefix dist origin gh-pages
 
 ---
 
+## Github pages
+
+https://gist.github.com/Qarc/0573bbce1b963b4d6de2fcd582daf000
+
+---
+
 ## Star rating
 
 https://codepen.io/SDen4/pen/zYqVJQx
