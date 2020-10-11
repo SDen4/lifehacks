@@ -135,7 +135,7 @@ git subtree push --prefix dist origin gh-pages
 
 ---
 
-## Github pages
+## Справочник Github 
 
 https://gist.github.com/Qarc/0573bbce1b963b4d6de2fcd582daf000
 
