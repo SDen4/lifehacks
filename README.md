@@ -242,10 +242,16 @@ https://codepen.io/SDen4/pen/KKMwqzJ
 
 ---
 
-### Неразрывный дефис
+## Неразрывный дефис
 
 ```sh
 &#8209;
 ```
+
+---
+
+## Different speed of scroll sections
+
+https://codepen.io/SDen4/pen/LYZJGVb?editors=1010
 
 ---
