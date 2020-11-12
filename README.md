@@ -199,7 +199,9 @@ https://codepen.io/SDen4/pen/BaNmBYd
 ## Три типа слайдеров на js (бесконечный, плавный конечный, простой конечный)
 
 https://jsfiddle.net/SDen4/q48v679w/latest/
+
 https://jsfiddle.net/SDen4/6r13mx0t/latest/
+
 https://jsfiddle.net/SDen4/xrjyd3g2/latest/
 
 ---
