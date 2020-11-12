@@ -255,3 +255,9 @@ https://codepen.io/SDen4/pen/KKMwqzJ
 https://codepen.io/SDen4/pen/LYZJGVb?editors=1010
 
 ---
+
+## Сlosure example in counter function
+
+https://codepen.io/SDen4/pen/JjKwvZP?editors=0010
+
+---
