@@ -263,3 +263,9 @@ https://codepen.io/SDen4/pen/LYZJGVb?editors=1010
 https://codepen.io/SDen4/pen/JjKwvZP?editors=0010
 
 ---
+
+## The exapmple of constructor function for creation new ojects
+
+https://codepen.io/SDen4/pen/gOMqzGr?editors=0010
+
+---
