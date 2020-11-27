@@ -269,3 +269,9 @@ https://codepen.io/SDen4/pen/JjKwvZP?editors=0010
 https://codepen.io/SDen4/pen/gOMqzGr?editors=0010
 
 ---
+
+## Canvas base
+
+https://codepen.io/SDen4/pen/XWjWGqq
+
+---
