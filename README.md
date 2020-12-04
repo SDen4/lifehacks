@@ -284,3 +284,9 @@ let arraysCopy = array.concat();
 ```
 
 ---
+
+## js prototype example
+
+https://codepen.io/SDen4/pen/XWjXQvY
+
+---
