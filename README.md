@@ -275,3 +275,12 @@ https://codepen.io/SDen4/pen/gOMqzGr?editors=0010
 https://codepen.io/SDen4/pen/XWjWGqq
 
 ---
+
+## Array's copy
+
+```sh
+let array = [1,2,3];
+let arraysCopy = array.concat();
+```
+
+---
