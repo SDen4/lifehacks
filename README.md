@@ -292,10 +292,17 @@ https://codepen.io/SDen4/pen/XWjXQvY
 
 ---
 
----
 
 ## storybook/react
 
 https://www.youtube.com/watch?v=N2BzpU1ffEw&feature=youtu.be
+
+---
+
+## protection of enter empty strings (consisted of spaces)
+
+```
+if (!inputstr.trim()) return null;
+```
 
 ---
