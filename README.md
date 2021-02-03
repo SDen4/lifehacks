@@ -306,3 +306,17 @@ if (!inputstr.trim()) return null;
 ```
 
 ---
+
+## CSS vars default value
+
+```
+:root {
+    --var1: value1;
+}
+
+.class {
+    color: var(--var1, valueDefault);
+}
+```
+
+---
