@@ -321,7 +321,7 @@ if (!inputstr.trim()) return null;
 
 ---
 
-## Exapmle of <details> and <summary>
+## Exapmle of ```<details>``` and ```<summary>```
 
 https://codepen.io/SDen4/pen/QWGjWvg?editors=0100
 
