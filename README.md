@@ -340,6 +340,6 @@ console.log('Header elements:', numHeader);
 
 ## Exapmle of shaped text
 
-https://codepen.io/SDen4/pen/JjbXwPm?editors=1000
+https://codepen.io/SDen4/pen/JjbXwPm?editors=1100
 
 ---
