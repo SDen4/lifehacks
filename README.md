@@ -326,3 +326,14 @@ if (!inputstr.trim()) return null;
 https://codepen.io/SDen4/pen/QWGjWvg?editors=0100
 
 ---
+
+## Quantity of DOM element (total & eg: in div class 'header'):
+
+```
+let numTotal = document.querySelectorAll('*').length;
+console.log('Total elements:', numTotal);
+
+let numHeader = document.querySelectorAll('.header *').length;
+console.log('Header elements:', numHeader);
+```
+---
