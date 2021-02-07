@@ -327,7 +327,7 @@ https://codepen.io/SDen4/pen/QWGjWvg?editors=0100
 
 ---
 
-## Quantity of DOM element (total & eg: in div class 'header'):
+## Quantity of DOM elements (total & eg: in div class 'header'):
 
 ```
 let numTotal = document.querySelectorAll('*').length;
